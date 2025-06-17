@@ -1,20 +1,29 @@
-# Modern .NET 8 Web API Starter
+This is a professional-grade boilerplate for building Web APIs using **ASP.NET Core 8**, featuring:
 
-This is a modern RESTful Web API boilerplate built with **ASP.NET Core 8**, featuring:
+✅ JWT Authentication  
+✅ Swagger UI for documentation  
+✅ MongoDB integration-ready  
+✅ Modular folder structure  
+✅ Docker-friendly and cloud-ready
 
-- ✅ JWT Authentication
-- ✅ Swagger Documentation
-- ✅ MongoDB Integration (placeholder)
-- ✅ Modular Architecture (Controllers, Services, DTOs, Config)
-- ✅ Docker-Ready
+## 🔧 Technologies Used
 
-## Quick Start
+- ASP.NET Core 8
+- JWT Bearer Auth
+- MongoDB or SQL Server (pluggable)
+- Swagger / Swashbuckle
+- Docker, GitHub Actions-ready
 
-1. Clone the repo  
-2. Run `dotnet restore`  
-3. Run `dotnet run`  
-4. Visit `https://localhost:5001/swagger` to explore the API
+## 🚀 Getting Started
 
-## Author
+1. `git clone https://github.com/CN129639/modern-dotnet8-api-jwt.git`
+2. `cd modern-dotnet8-api-jwt`
+3. `dotnet restore`
+4. `dotnet run`
+5. Visit: `https://localhost:5001/swagger`
 
-Jack Hakobyan – Senior .NET Consultant
+## 👨‍💻 Author
+
+Jack Hakobyan — Senior .NET Consultant  
+Location: Los Angeles, CA 🇺🇸  
+Rate: $75/hr | Available part-time
